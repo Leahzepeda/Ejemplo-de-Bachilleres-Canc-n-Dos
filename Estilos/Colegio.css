@@ -1,0 +1,17 @@
+#titulocolegio{
+    text-align: center;
+    color:#1113CF;
+    text-decoration:underline;
+}
+#imagen1colegio{
+   float: left;
+    
+}
+
+#pcolegio{
+    text-align:center;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 18px;
+}

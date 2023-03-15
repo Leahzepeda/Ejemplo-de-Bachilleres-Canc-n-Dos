@@ -1,0 +1,40 @@
+#titulocapacitaciones{
+    display: inline-block;
+    width:56%;
+    color: #1113CF;
+    text-align: center;
+    text-decoration: underline;
+}
+#img1{
+    display: inline-block;
+    width: 15%;
+    float:left;
+}
+
+#img2{
+    display: inline-block;
+    width:10%;
+    float:right;
+}
+
+.textocap{
+    color: #1113CF;
+    clear: both;
+}
+.imgcap{
+    display:flex;
+    justify-content: center;
+    margin-top: 35px;
+    padding: 35px;
+}
+.imgcap1{
+    margin-right: 10px;
+}
+.imgcap2{
+    margin-left:10px;
+}
+#mc{
+    text-align: center;
+    color: #1113CF;
+    text-decoration: underline;
+}

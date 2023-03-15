@@ -1,0 +1,19 @@
+#titulopara{
+    display: inline-block;
+    width:56%;
+    color: #1113CF;
+    text-align:left;
+    text-decoration: underline;
+    
+}
+
+#Imgparaesc{
+    float: left;
+}
+#listapara{
+    text-align:justify;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 18px
+}

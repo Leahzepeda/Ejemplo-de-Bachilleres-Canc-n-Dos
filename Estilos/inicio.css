@@ -1,0 +1,36 @@
+header{
+    clear: both;
+    margin: 12px;
+    border: 8px;
+    text-align: center;
+    display: block;
+    margin:auto;
+    color:#1113CF;
+    text-decoration:underline;
+}
+#textoinicio{
+    text-align:justify;
+    padding: 8px;
+    border-radius: 5px;
+    margin: 5px;
+    font-size: 18px;
+}
+#ryd{
+    text-align: center;
+    color: #1113CF;
+    text-decoration: underline;
+}
+.imginiult{
+    display:flex;
+    justify-content: center;
+    margin-top: 35px;
+    padding: 35px;
+}
+.img1{
+    margin-right: 10px;
+    
+}
+
+.img2{
+    margin-left:10px;
+    
